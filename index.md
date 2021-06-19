@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
+## Jonathan Dodway
 
-You can use the [editor on GitHub](https://github.com/jondodway/PersonalWebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About 
+Jonathan Dodway (He/Him) is a recent college graduate, looking to improve the lives of others by utilizing his skills. He is constantly learning for adaptation and maximum effectiveness.
 
 ```markdown
 Syntax highlighted code block
